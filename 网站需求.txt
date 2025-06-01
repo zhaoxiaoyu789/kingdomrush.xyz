@@ -1,0 +1,56 @@
+#你好 我想做一个kingdom rush这款游戏的在线游玩网站
+现在我们一起来完成首页设计
+首页的结构如下:
+Header
+游戏Iframe区域
+Hero
+Youtube视频Iframe区域
+what is
+how to
+why
+FAQ
+Footer
+
+网站语言是英语
+
+##以下是网站优化制作要求
+###优化heade
+header保留左侧logo图片+游戏名字就好
+发给你的图片是游戏截图
+header的样式色调参考图片的色调就好
+###
+game feature部分
+我希望包含四张图片 四组内容 一排一组
+@https://developers.google.com/search/docs/fundamentals/creating-helpful-content
+我要求内容的英文字数要超过500个英文单词，同时围绕关键词kingdom rush，核心关键词的密度保持在3.5-4%。heading部分要丰富 包含多个h2 h3 甚至h4,这些标题也要适当提及关键词
+
+###
+接下来到what is
+how to
+why play部分的内容
+
+@https://developers.google.com/search/docs/fundamentals/creating-helpful-content
+我要求内容的英文字数要超过500个英文单词，同时围绕关键词kingdom rush，核心关键词的密度保持在3.5-4%。heading部分要丰富 包含多个h2 h3 甚至h4,这些标题也要适当提及关键词
+内容来源可以参考这个网址 但不要直接复制@https://www.crazygames.com/game/kingdom-rush
+
+###
+接下来到faq部分的内容 默认展开 不要折叠
+@https://developers.google.com/search/docs/fundamentalsIcreating-helpful-content
+我要求内容的英文字数要超过800个英文单词，同时围绕关键词kingdom rush，核心关键词的密度保持在3.5-4%。heading部分要丰富 包含多个h2 h3 甚至h4,这些标题也要适当提及关键词
+
+###
+在irame下方帮我加入两个youtube iframe视频电脑端并排展示 手机端一排一个
+###
+帮我优化下seo title和description 包含一些表情符号引人注目
+
+##网站最终效果则像以下俩网站一样
+https://hasinarunner.online/
+https://crazy-cattle.net/
+
+##iframe地址
+游戏的iframe地址：
+<iframe src="https://www.crazygames.com/embed/kingdom-rush" style="width: 100%; height: 100%;" frameborder="0" allow="gamepad *;"></iframe>
+youtube的iframe地址：
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bmjjvpKcP5Y?si=fXMm81sTZPRTsRlx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PpzlSMoid0M?si=g2a_q1KJkwyS9Ych" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
